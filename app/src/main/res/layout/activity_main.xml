@@ -20,7 +20,7 @@
             android:id="@+id/textView"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Settings"
+            android:text="Pattern settings"
             android:gravity="center"/>
 
         <LinearLayout
@@ -39,7 +39,6 @@
                 android:layout_height="wrap_content"
                 android:ems="10"
                 android:hint="square size (mm)"
-                android:text="24"
                 android:textSize="@dimen/textSize"
                 android:inputType="numberDecimal" />
         </LinearLayout>
@@ -60,7 +59,6 @@
                 android:ems="10"
                 android:textSize="@dimen/textSize"
                 android:hint="horizontal corners"
-                android:text="6"
                 android:inputType="number" />
         </LinearLayout>
 
@@ -79,7 +77,6 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:hint="Vertical corners :"
-                android:text="9"
                 android:textSize="@dimen/textSize"
                 android:ems="10"
                 android:inputType="number" />
