@@ -45,6 +45,8 @@
 
     - create a new Activity to show results of calibration
     
+    - clean the code
+    
 
 
     
